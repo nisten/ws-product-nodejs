@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{46:function(e,t,n){"use strict";n.r(t);var i=n(1),a=n.n(i),r=n(21);t.default=Object(r.withSiteData)(function(){return a.a.createElement("div",{style:{textAlign:"center"}},a.a.createElement("h1",null,"Welcome to static maps with server side rendering"))})}}]);
+//# sourceMappingURL=src-pages-index.54a8d300.js.map

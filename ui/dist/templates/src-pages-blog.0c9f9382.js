@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{44:function(e,t,n){"use strict";n.r(t);var a=n(1),l=n.n(a),o=n(21),i=n(17);t.default=Object(o.withRouteData)(function(e){var t=e.posts;return l.a.createElement("div",null,l.a.createElement("h1",null,"This is axios fetching random blog posts"),l.a.createElement("br",null),"All Posts:",l.a.createElement("ul",null,t.map(function(e){return l.a.createElement("li",{key:e.id},l.a.createElement(i.Link,{to:"/blog/post/".concat(e.id,"/")},e.title))})))})}}]);
+//# sourceMappingURL=src-pages-blog.0c9f9382.js.map
